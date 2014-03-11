@@ -1,0 +1,1 @@
+For more info check LSRegression.pdf (description of the project in Greek)
